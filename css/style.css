@@ -1,0 +1,41 @@
+h1 {
+    font-size: 34px;
+}
+
+h2 {
+    font-size: 59px;
+}
+
+p {
+    font-size: 17px;
+}
+
+h5 {
+    font-size: 12px;
+}
+
+h3 {
+    font-size: 11px;
+}
+
+h4 {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+footer a {
+    color: rgb(45, 32, 223);
+}
+
+footer p {
+    font-size: 12px;
+}
+
+h5 a {
+    color: rgb(96, 95, 100);
+}
+
+footer {
+    color: grey
+}
+
